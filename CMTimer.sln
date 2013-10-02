@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CMTimer", "CMTimer.vcproj", "{C476DB8C-2FE6-4049-A4DD-B16A3F63D8EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C476DB8C-2FE6-4049-A4DD-B16A3F63D8EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C476DB8C-2FE6-4049-A4DD-B16A3F63D8EA}.Debug|Win32.Build.0 = Debug|Win32
+		{C476DB8C-2FE6-4049-A4DD-B16A3F63D8EA}.Release|Win32.ActiveCfg = Release|Win32
+		{C476DB8C-2FE6-4049-A4DD-B16A3F63D8EA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+[Encounters]
+Gargoyle Master=30
+Yaremka=40
+Ahazu Zhagam=42
+Chatha=40
+Kylikki=60
+Vistrix=40
